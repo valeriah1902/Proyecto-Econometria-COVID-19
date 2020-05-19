@@ -1,4 +1,4 @@
-"Fecha","Abreviatura","Estado","positivos _COVID_19","Poblacion","Muertes_x_ millon","Vuelos","Ingreso_PerCapita","Gasto_Salud_PerCapita","Densidad _Poblacional","Desempleo","Partido","Sin_Salud","desempleo_2019"
+"Fecha","Abreviatura","Estado","positivos_COVID_19","Poblacion","Muertes_x_millon","Vuelos","Ingreso_PerCapita","Gasto_Salud_PerCapita","Densidad _Poblacional","Desempleo","Partido","Sin_Salud","desempleo_2019"
 "20200423","PA","    Pennsylvania ","1602","12807060","15.69447","215","59341","57","110.51640","0.060","Democrata","0.060","0.043"
 "20200420","CT","    Connecticut ","2265","3572665","68.57626","33","79403","86","284.88561","0.037","Democrata","0.060","0.04"
 "20200415","CT","    Connecticut ","766","3572665","55.14091","37","79403","86","284.88561","0.037","Democrata","0.060","0.04"
